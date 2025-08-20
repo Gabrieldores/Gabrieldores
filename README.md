@@ -1,7 +1,7 @@
 Tudo joia? Eu sou Gabriel Lucas 👋
 
-- 👨🏽‍💻 Atualmente estou no João XXIII trabalhando com suporte
-- ✍ estou aprendendo ciência de dados, skict learn, java e golang
+- 👨🏽‍💻 Atualmente estou na Konneqt como estagiário em DevOps
+- ✍ estou aprendendo Kubernetes, docker, golang, gcp e aws
 - 🤩 Estou sempre em busca de aprender coisas novas, desenvolver projetos novos
 - 📫 Contato: gabriellucas4562@gmail.com/ gabriellucas.dores@gmail.com
 - ⚡ fatos aleatórios: fã de leitura, esportes, jogos e filmes!!!
