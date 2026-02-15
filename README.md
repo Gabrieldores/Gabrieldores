@@ -4,9 +4,9 @@
 
 ## 🔭 I'm currently working on
 
-Atualmente, como DevOps Trainee na Konneqt, minha atuação é focada em modernizar e automatizar o ciclo de vida de aplicações em um ambiente multicloud, com forte viés em segurança.
+Atualmente, como Consultor de segurança júnior na Qriar, meu desejo é focado em modernizar e automatizar o ciclo de vida de aplicações em um ambiente multicloud, com forte viés em segurança.
 
-Minhas responsabilidades diárias incluem:
+Meus conhecimentos  incluem:
 
 * **DevSecOps & CI/CD:** Construir e manter pipelines utilizando GitHub Actions e GitLab, integrando segurança diretamente na esteira com SonarQube (SAST) e Harbor (Vulnerability Scanning).
 * **Gestão de Acesso Privilegiado (PAM):** Aplicação de conceitos de segurança e controle de acesso no ciclo de vida de aplicações e infraestrutura.
