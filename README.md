@@ -31,8 +31,7 @@ open-source contribution, devops, devsecops, kubernetes, PAM, cloud computing, m
 ## 🔝 Most Used Languages
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieldores&layout=compact&langs_count=10&theme=radical&hide=html,css,scss&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrieldores&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://metrics.lecoq.io/Gabrieldores?base=header,repositories,metadata&achievements=1&achievements_display=compact&languages=1&languages_sections=most-used&languages_indepth=1&theme=dark" width="400" />
 </div>
 
 ## 💻 Tech Stack
