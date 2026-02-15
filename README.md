@@ -1,56 +1,50 @@
 # Hi 👋, I'm Gabriel Lucas Pereira das Dores
 
-**Cursando Sistemas de Informação na PUC Minas e atuando como DevOps Trainee, meu foco é em DevOps, MLOps e engenharia de nuvem. Possuo experiência prática em automação de CI/CD (GitHub Actions), orquestração de contêineres (Docker, Kubernetes) e ambientes multicloud (AWS, GCP), com o objetivo de construir infraestruturas escaláveis e seguras.
-**
+**Graduando em Sistemas de Informação na PUC Minas e DevOps Trainee na Konneqt. Com sólida base em Segurança de Acesso Privilegiado (PAM), estou focando minha transição para DevSecOps e MLOps. Especialista em construir infraestruturas escaláveis e seguras, utilizando automação de CI/CD, orquestração de contêineres e segurança em ambientes multicloud.**
 
 ## 🔭 I'm currently working on
 
-Atualmente, como DevOps Trainee na Konneqt, minha atuação é focada em modernizar e automatizar o ciclo de vida de aplicações em um ambiente multicloud.
+Atualmente, como DevOps Trainee na Konneqt, minha atuação é focada em modernizar e automatizar o ciclo de vida de aplicações em um ambiente multicloud, com forte viés em segurança.
 
 Minhas responsabilidades diárias incluem:
 
-    Construir e manter pipelines de CI/CD utilizando GitHub Actions e GitLab, automatizando os processos de build, teste e deploy.
+* **DevSecOps & CI/CD:** Construir e manter pipelines utilizando GitHub Actions e GitLab, integrando segurança diretamente na esteira com SonarQube (SAST) e Harbor (Vulnerability Scanning).
+* **Gestão de Acesso Privilegiado (PAM):** Aplicação de conceitos de segurança e controle de acesso no ciclo de vida de aplicações e infraestrutura.
+* **Orquestração com Kubernetes:** Gerenciar aplicações conteinerizadas com Docker e orquestradas com **Kubernetes**, garantindo escalabilidade, resiliência e isolamento de recursos.
+* **Operações Multicloud:** Atuação em nuvens públicas (AWS, GCP) e nuvem privada baseada em Apache CloudStack.
+* **Mensageria:** Suporte a sistemas de mensageria com NATS para comunicação assíncrona entre microsserviços.
 
-    Integrar a segurança diretamente na esteira de desenvolvimento (DevSecOps), utilizando ferramentas como o SonarQube para análise estática de código (SAST) e o Harbor para gerenciamento de imagens de contêiner e scans de vulnerabilidades.
 
-    Gerenciar aplicações conteinerizadas com Docker e orquestradas com Kubernetes, garantindo a escalabilidade e a resiliência dos serviços.
-
-    Operar em ambientes de nuvem híbrida, ganhando experiência prática tanto em provedores públicos, como AWS e Google Cloud, quanto em uma nuvem privada baseada em Apache CloudStack.
-
-    Implementar e dar suporte a sistemas de mensageria com NATS, essenciais para a comunicação assíncrona entre microsserviços.
 
 ## 🌱 I'm currently learning
 
-☁️ Dominar o Ecossistema Cloud Native: Aprofundando meus conhecimentos em Docker, Kubernetes e arquiteturas multicloud para construir e gerenciar sistemas escaláveis e resilientes.
+☁️ **Dominar o Ecossistema Cloud Native:** Aprofundando conhecimentos em segurança de clusters Kubernetes (RBAC, Network Policies) e arquiteturas resilientes.
 
-⚙️ Automação de Ponta a Ponta: Especializando-me na criação de pipelines de CI/CD robustos e seguros com GitHub Actions, automatizando todo o ciclo de vida de uma aplicação, do código à produção.
+⚙️ **Automação de Segurança:** Especializando-me em transformar o PAM tradicional em práticas de segurança nativas da nuvem e "Security as Code".
 
-🤖 Construindo a Ponte para o MLOps: Meu objetivo mais avançado é aplicar os princípios DevOps para resolver os desafios do ciclo de vida de Machine Learning, explorando ferramentas como DVC e MLflow para criar sistemas de ML confiáveis e reprodutíveis.
+🤖 **Construindo a Ponte para o MLOps:** Aplicando princípios DevOps para resolver os desafios de Machine Learning, explorando DVC e MLflow para sistemas reprodutíveis e seguros.
 
 ## 👀 I'm interested in
 
-open-source contribuation, devops, ci/cd,kubernetes, cloud computing, mlops, devsecops
+open-source contribution, devops, devsecops, kubernetes, PAM, cloud computing, mlops
 
 ## 🔝 Most Used Languages
 
-<!-- ⚠️ Important: Replace 'Gabrieldores' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieldores&layout=compact&langs_count=10&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieldores&layout=compact&langs_count=10&theme=radical&hide=html,css,scss&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrieldores&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 💻 Tech Stack
 
-### ⚙️ Backend
+### 🛡️ DevSecOps & Security
+<img src="https://img.shields.io/badge/PAM-Privileged%20Access-red?style=for-the-badge&logo=keycdn&logoColor=white" /> <img src="https://img.shields.io/badge/SonarQube-4e9bcd?style=for-the-badge&logo=sonarqube&logoColor=white" /> <img src="https://img.shields.io/badge/Harbor-60b932?style=for-the-badge&logo=harbor&logoColor=white" /> <img src="https://img.shields.io/badge/DevSecOps-Security-blue?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/SQLite-4169e1?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+### 🚀 Cloud & Infrastructure
+<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-ee0000?style=for-the-badge&logo=ansible&logoColor=white" />
 
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-9370db?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-9370db?style=for-the-badge&logo=aws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-9370db?style=for-the-badge&logo=azure&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-9370db?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-9370db?style=for-the-badge&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-9370db?style=for-the-badge&logo=gcp&logoColor=white" /> 
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/Go-FFA500?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> 
+### 💬 Languages & Messaging
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/NATS-0085FF?style=for-the-badge&logo=nats&logoColor=white" />
 
 ## 🌐 Socials
 
@@ -73,7 +67,6 @@ open-source contribuation, devops, ci/cd,kubernetes, cloud computing, mlops, dev
 ---
 ⭐️ From [Gabriel Lucas Pereira das Dores](https://github.com/Gabrieldores)
 
-<!-- Profile views counter -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/Gabrieldores/count.svg" alt="Visitor Count" />
 </div>
